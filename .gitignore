@@ -1,0 +1,13 @@
+renderer.js
+/classes/
+/lib/
+/node_modules/
+/target/
+*.jar
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+figwheel_server.log
+pom.xml
+.*.swp
+node_modules

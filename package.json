@@ -1,0 +1,16 @@
+{
+  "name": "reagent-node-render-demo",
+  "version": "0.1.0",
+  "private": "true",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-dom": "15.2.1"
+  },
+  "devDependencies": {
+    "source-map-support": "0.4.0",
+    "ws": "0.8.1"
+  }
+}
